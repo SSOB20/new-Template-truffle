@@ -1,0 +1,29 @@
+{
+  "name": "truffle-plugin-template",
+  "version": "1.0.0",
+  "description": "This project serves as a template/boilerplate for projects that use the SIMBA Chain Truffle plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SIMBAChain/truffle-plugin-template.git"
+  },
+  "keywords": [
+    "truffle",
+    "SIMBA",
+    "simba chain",
+    "web3",
+    "blockchain"
+  ],
+  "author": "SIMBA Chain, Inc.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SIMBAChain/truffle-plugin-template/issues"
+  },
+  "homepage": "https://github.com/SIMBAChain/truffle-plugin-template#readme",
+  "devDependencies": {
+    "@simbachain/truffle": "^6.0.2"
+  }
+}
